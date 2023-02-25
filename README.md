@@ -12,7 +12,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/rasta-team/3x-ui/main/install.sh)
 ```
 
 # SSL
